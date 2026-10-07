@@ -2,7 +2,7 @@ import sys
 import random
 
 if len(sys.argv) != 2:
-    print("Usage: python samplit-arsen.py <filename>")
+    print("Usage: python samplit-apc-cpu.py <filename>")
     sys.exit(1)
 
 filename = sys.argv[1]
